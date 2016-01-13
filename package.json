@@ -46,6 +46,7 @@
     "react-addons-update": "^0.14.6",
     "react-bootstrap": "^0.16.1",
     "react-bootstrap-datetimepicker": "^0.0.22",
+    "shallowequal": "^0.2.2",
     "underscore.string": "^2.3.3"
   },
   "peerDependencies": {
